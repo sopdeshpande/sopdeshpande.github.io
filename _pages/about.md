@@ -22,7 +22,7 @@ Due to limited access to the factory, we did not have sufficient images to train
 To access and interpret real-time and historical data from both legacy and smart factory machines , I developed a Digital Twin and a multi-agent LLM framework,  using Retrieval Augmented Generation (RAG). I deployed this model on mixed reality devices such as AR/VR headsets, which allows users to control the machine in real-time. [SME 2023](https://www.sciencedirect.com/science/article/pii/S2213846323001153), 
 [SME NAMRC, 2025 and CAAD Futures, 2025](https://ming3d.com/new/2024/01/24/digital-twin-with-iiot/ )
 
-Along with these projects, I developed predictive models using probabilistic techniques for causal inferences and uncertainty quantification. I also have research interests in the industrial metaverse and lightweight cloud-edge frameworks. See my full publications at the publication page. You can see my CV here.
+Along with these projects, I developed predictive models using probabilistic techniques for causal inferences and uncertainty quantification. I also have research interests in the industrial metaverse and lightweight cloud-edge frameworks. See my full publications at the [publication page](https://scholar.google.com/citations?user=LZ4UdG8AAAAJ&hl=en&oi=sra). You can see my CV [here](https://sopdeshpande.github.io/files/Resume_Sourabh_Deshpande.pdf).
 
 News
 ======
