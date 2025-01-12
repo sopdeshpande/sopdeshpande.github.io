@@ -27,7 +27,7 @@ author:
   #bio              : "Short biography for the left-hand sidebar"
   #location         : "Earth"
   employer         : "University of Cincinnati"
-  uri              : "sopdeshpande.github.io"
+  #uri              : "sopdeshpande.github.io"
   email            : "deshpasb@mail.uc.edu" 
 
   # Academic websites
