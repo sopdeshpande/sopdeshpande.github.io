@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Sourabh Deshpande"
 description              : &description "Sourabh Deshpande's Website"
 url                      : https://sopdeshpande.github.io # the base hostname & protocol for your site e.g. "https://sopdeshapande.github.io"
-baseurl                  : "/sopdeshpande.github.io"
+baseurl                  : ""
 repository               : "sopdeshpande/sopdeshpande.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
