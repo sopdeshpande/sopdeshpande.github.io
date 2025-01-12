@@ -1,3 +1,13 @@
+---
+permalink: /
+title: ""
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 I am a Ph.D. candidate at the University of Cincinnati in the Smart Manufacturing Lab, College of Engineering and Applied Science, advised by [Dr. Sam Anand](https://www.linkedin.com/in/sam-anand-7b917ab3).
 
 My research focuses on applying computer vision and generative AI models for industrial automation. In particular, I am developing vision-language models (VLMs) and human digital twins (HDTs) for motion prediction applications in real-time manufacturing environments. Below is a summary of some of my selected works:
