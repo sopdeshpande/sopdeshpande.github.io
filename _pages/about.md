@@ -10,7 +10,9 @@ redirect_from:
 
 I am a Ph.D. candidate at the University of Cincinnati in the Smart Manufacturing Lab, College of Engineering and Applied Science, advised by [Dr. Sam Anand](https://www.linkedin.com/in/sam-anand-7b917ab3).
 
-My research focuses on applying computer vision and generative AI models for industrial automation. In particular, I am developing vision-language models (VLMs) and human digital twins (HDTs) for motion prediction applications in real-time manufacturing environments. Below is a summary of some of my selected works:
+My research focuses on applying computer vision and generative AI models for industrial automation. In particular, I am developing vision-language models (VLMs) and human digital twins (HDTs) for motion prediction applications in real-time manufacturing environments. 
+
+See my full publications at the [publication page](https://scholar.google.com/citations?user=LZ4UdG8AAAAJ&hl=en&oi=sra). You can see my CV [here](https://sopdeshpande.github.io/files/Resume_Sourabh_Deshpande.pdf). Below is a summary of some of my selected works:
 
 - **Motion-Language Model (MLM) for Real-time Human Motion Generation and Ergonomic Analysis:**
 For reducing workplace injuries, we are working on predicting a worker’s path trajectory given their prior path and alerting them in natural language to avoid any collisions.  To build a model for this task, I first carefully curated in-house motion-capture data parametrized using MoSh++ body solver as there are no existing datasets in this space. Next, to construct a training dataset, I developed a GPT-4o-assisted toolbox that takes the human motion as input and generates a text description analyzing the body ergonomics. Next, I fine-tuned an in-domain MLM on the above data to do both motion-to-text and text-to-motion generation.  In order to use this model for generating safety alerts, we take real-time 3D human pose estimates of the worker, automatically generate their SMPL-compatible keypoints, and provide them to our fine-tuned in-domain MLM that generates the ergonomic feedback in natural language. We have been [awarded a grant of 1.3M$](https://info.bwc.ohio.gov/news-and-events/news/BWC-awards-9.4-million-in-grants-for-workforce-safety-innovation-projects ) by the  Ohio Bureau of Workers’ Compensation (BWC) for this effort. Furthermore, our work was covered by [Spectrum News](https://spectrumnews1.com/oh/columbus/news/2024/10/23/ohio-worker-safety--artificial-intelligence--ohio-bureau-of-workers-compensation--dr--manish-kumar--dr--sam-anand). 
@@ -22,7 +24,7 @@ Due to limited access to the factory, we did not have sufficient images to train
 To access and interpret real-time and historical data from both legacy and smart factory machines , I developed a Digital Twin and a multi-agent LLM framework,  using Retrieval Augmented Generation (RAG). I deployed this model on mixed reality devices such as AR/VR headsets, which allows users to control the machine in real-time. [SME 2023](https://www.sciencedirect.com/science/article/pii/S2213846323001153), 
 [SME NAMRC, 2025 and CAAD Futures, 2025](https://ming3d.com/new/2024/01/24/digital-twin-with-iiot/ )
 
-Along with these projects, I developed predictive models using probabilistic techniques for causal inferences and uncertainty quantification. I also have research interests in the industrial metaverse and lightweight cloud-edge frameworks. See my full publications at the [publication page](https://scholar.google.com/citations?user=LZ4UdG8AAAAJ&hl=en&oi=sra). You can see my CV [here](https://sopdeshpande.github.io/files/Resume_Sourabh_Deshpande.pdf).
+Along with these projects, I developed predictive models using probabilistic techniques for causal inferences and uncertainty quantification. I also have research interests in the industrial metaverse and lightweight cloud-edge frameworks.
 
 News
 ======
