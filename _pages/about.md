@@ -20,7 +20,7 @@ For reducing workplace injuries, we are working on predicting a worker’s path 
 - **Synthetic Image Data Generation for Model Training:**
 Due to limited access to the factory, we did not have sufficient images to train the 3D component recognition model, a key model in the above-mentioned motion prediction framework. This model is required for identifying any obstacles present in the worker’s projected path. Therefore, to build a high-quality model in such low-resource settings, I leveraged physics-based rendering methods to automatically generate image segmentation masks and labels for model training. This solution was deployed through an augmented reality (AR) application to identify objects in real-time. [ASME, 2024](https://asmedigitalcollection.asme.org/MSEC/proceedings/MSEC2024/88117/V002T07A007/1203234)
 
-![image](/images/Component_Recognition_Summary.png =100x20)
+![image](/images/Component_Recognition_Summary.png)
 
 - **Enhancing Digital Twins and IoT with LLM:**
 To access and interpret real-time and historical data from both legacy and smart factory machines , I developed a Digital Twin and a multi-agent LLM framework,  using Retrieval Augmented Generation (RAG). I deployed this model on mixed reality devices such as AR/VR headsets, which allows users to control the machine in real-time. [SME 2023](https://www.sciencedirect.com/science/article/pii/S2213846323001153), 
