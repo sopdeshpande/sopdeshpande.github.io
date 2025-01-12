@@ -22,6 +22,9 @@ main:
     
   - title: "CV"
     url: /files/Resume_Sourabh_Deshpande.pdf
+  
+  - title: "Projects"
+    url: /projects/
     
   #- title: "Guide"
   # url: /markdown/
