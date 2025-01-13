@@ -28,7 +28,7 @@ Due to limited access to the factory, we did not have sufficient images to train
      style="max-width: 630px;padding-left: 10em" />
 
 - **Enhancing Digital Twins and IoT with LLM:**
-To access and interpret real-time and historical data from both legacy and smart factory machines, I developed a Digital Twin and a multi-agent LLM framework, using Retrieval Augmented Generation (RAG). I deployed this model on mixed reality devices such as AR/VR headsets, which allows users to control the machine in real-time. [SME 2023](https://www.sciencedirect.com/science/article/pii/S2213846323001153), 
+To access and interpret real-time and historical data from both legacy and smart factory machines, I developed a Digital Twin and a multi-agent LLM framework, using Retrieval Augmented Generation (RAG). I deployed this model on mixed reality devices such as AR/VR headsets, which allows users to control the machine in real-time. [SME NAMRC, 2023](https://www.sciencedirect.com/science/article/pii/S2213846323001153), 
 [SME NAMRC, 2025 and CAAD Futures, 2025](https://ming3d.com/new/2024/01/24/digital-twin-with-iiot/)
 
 - **Visual Inspections Perfected using AI:**
@@ -50,7 +50,7 @@ LLM integration" paper submitted at SME North American Manufacturing Research Co
 
 - **Nov 2024**: Abstract "Enhancing Digital Twins with Internet of Things, Large Language Models: Assessment of DT Development Platforms" accepted for CAAD Futures 2025: Catalytic Interfaces (*Full length paper under review*)
 
-- **Oct 2024**: Press coverage by [Spectrum News] (https://spectrumnews1.com/oh/columbus/news/2024/10/23/ohio-worker-safety--artificial-intelligence--ohio-bureau-of-workers-compensation--dr--manish-kumar--dr--sam-anand) on our project on improving worker safety
+- **Oct 2024**: Press coverage by [Spectrum News](https://spectrumnews1.com/oh/columbus/news/2024/10/23/ohio-worker-safety--artificial-intelligence--ohio-bureau-of-workers-compensation--dr--manish-kumar--dr--sam-anand) on our project on improving worker safety
 
 - **Aug 2024**: [Deep learning-based image segmentation for defect detection in additive manufacturing: an overview](https://link.springer.com/article/10.1007/s00170-024-14191-6) published at the International Journal of Advanced Manufacturing Technology, 2024
 
@@ -66,6 +66,6 @@ LLM integration" paper submitted at SME North American Manufacturing Research Co
 
 - **June 2021**: Recognized by SME and ASME for [co-organizing NAMRC and MSEC](https://issuu.com/sme_us/docs/13320_2021_namri-namrc_awards_brochure_2021-07-07_), 2021
 
-- **June 2021**: Paper presented at SME NAMRC, 2021 [IIoT based Augmented Reality for Factory Data Collection and Visualization](https://www.sciencedirect.com/science/article/pii/S235197892100072X). The research was conducted at Volvo Trucks facility in Hagerstown, MD.
+- **June 2021**: Paper presented at SME NAMRC, 2021 [IIoT based Augmented Reality for Factory Data Collection and Visualization](https://www.sciencedirect.com/science/article/pii/S235197892100072X).
 
 - **June 2020**: [Prediction of selective laser melting part quality using hybrid Bayesian network](https://www.sciencedirect.com/science/article/pii/S2214860419307328)) published at the Additive Manufacturing journal, 2020
