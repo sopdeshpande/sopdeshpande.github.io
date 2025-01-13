@@ -52,7 +52,7 @@ LLM integration" paper submitted at SME North American Manufacturing Research Co
 
 - **Oct 2024**: Press coverage by [Spectrum News](https://spectrumnews1.com/oh/columbus/news/2024/10/23/ohio-worker-safety--artificial-intelligence--ohio-bureau-of-workers-compensation--dr--manish-kumar--dr--sam-anand) on our project on improving worker safety
 
-- **Aug 2024**: [Deep learning-based image segmentation for defect detection in additive manufacturing: an overview](https://link.springer.com/article/10.1007/s00170-024-14191-6) published at the International Journal of Advanced Manufacturing Technology, 2024
+- **Aug 2024**: [Deep learning-based image segmentation for defect detection in additive manufacturing: an overview](https://link.springer.com/article/10.1007/s00170-024-14191-6) published at the *International Journal of Advanced Manufacturing Technology*, 2024
 
 - **July 2024**: Successfully proposed PhD dissertation titled "Machine Learning and Industrial IoT assisted Computer Vision Frameworks for Smart and Safe Manufacturing"
 
@@ -68,4 +68,4 @@ LLM integration" paper submitted at SME North American Manufacturing Research Co
 
 - **June 2021**: Paper presented at SME NAMRC, 2021 [IIoT based Augmented Reality for Factory Data Collection and Visualization](https://www.sciencedirect.com/science/article/pii/S235197892100072X).
 
-- **June 2020**: [Prediction of selective laser melting part quality using hybrid Bayesian network](https://www.sciencedirect.com/science/article/pii/S2214860419307328)) published at the Additive Manufacturing journal, 2020
+- **June 2020**: [Prediction of selective laser melting part quality using hybrid Bayesian network](https://www.sciencedirect.com/science/article/pii/S2214860419307328) published at the *Additive Manufacturing* Journal, 2020
