@@ -10,15 +10,15 @@ redirect_from:
 
 I am a Ph.D. candidate at the University of Cincinnati in the Smart Manufacturing Lab, College of Engineering and Applied Science, advised by [Dr. Sam Anand](https://ceas.uc.edu/research/centers-labs/center-for-global-design-and-manufacturing.html).
 
-<video src="https://github.com/user-attachments/assets/ad0fdd64-7516-4cc0-a0bc-268460fceea3" controls="controls" style="max-width: 730px;">
-</video>
-
 My research focuses on applying computer vision and generative AI models for building Industry 4.0/5.0 solutions. For instance, currently I am developing vision-language models (VLMs) and digital twins (DTs) for motion prediction applications in real-time manufacturing environments. I am also interested in the industrial metaverse, IoT and human-machine interactions.
 
 See my full publications at the [publication page](https://scholar.google.com/citations?user=LZ4UdG8AAAAJ&hl=en&oi=sra). You can see my CV [here](https://sopdeshpande.github.io/files/Resume_Sourabh_Deshpande.pdf). Below is a summary of some of my selected works:
 
 - **Motion-Language Model (MLM) for Real-time Human Motion Prediction, Generation, and Ergonomic Analysis:**
 For reducing workplace injuries, we are working on predicting a worker’s trajectory given their prior path and alerting them to avoid any collisions.  To build a model for this task, I have curated an in-house motion-capture data as there are no existing datasets in this space. To construct a training dataset, I developed a GPT-4o-assisted toolbox to generate labels for captured motions. I then fine-tuned an in-domain MLM to do both motion-to-text and text-to-motion generation.  For generating safety alerts, I took real-time 3D human pose estimates of the worker, automatically generated their SMPL-compatible keypoints, and provided them to the fine-tuned MLM that generates the ergonomic feedback in natural language. This project has been [awarded a grant of $1.3M](https://info.bwc.ohio.gov/news-and-events/news/BWC-awards-9.4-million-in-grants-for-workforce-safety-innovation-projects ) by the  Ohio Bureau of Workers’ Compensation and was covered by [Spectrum News](https://spectrumnews1.com/oh/columbus/news/2024/10/23/ohio-worker-safety--artificial-intelligence--ohio-bureau-of-workers-compensation--dr--manish-kumar--dr--sam-anand). 
+
+<video src="https://github.com/user-attachments/assets/ad0fdd64-7516-4cc0-a0bc-268460fceea3" controls="controls" style="max-width: 530px;padding-left: 10em">
+</video>
 
 - **Synthetic Image Data Generation for Model Training:**
 Due to limited access to the factory, we did not have sufficient images to train the 3D component recognition model, a key model in the motion prediction framework. This model is required for identifying any obstacles present in the worker’s projected path. Therefore, to build a high-quality model in such low-resource settings, I leveraged physics-based rendering methods to automatically generate image segmentation masks and labels for training. This solution was deployed through an augmented reality (AR) application to identify objects in real-time. [ASME, 2024](https://asmedigitalcollection.asme.org/MSEC/proceedings/MSEC2024/88117/V002T07A007/1203234)
