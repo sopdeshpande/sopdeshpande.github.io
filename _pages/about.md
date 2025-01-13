@@ -17,7 +17,7 @@ See my full publications at the [publication page](https://scholar.google.com/ci
 - **Motion-Language Model (MLM) for Real-time Human Motion Prediction, Generation, and Ergonomic Analysis:**
 For reducing workplace injuries, we are working on predicting a worker’s trajectory given their prior path and alerting them to avoid any collisions.  To build a model for this task, I have curated an in-house motion-capture data as there are no existing datasets in this space. To construct a training dataset, I developed a GPT-4o-assisted toolbox to generate labels for captured motions. I then fine-tuned an in-domain MLM to do both motion-to-text and text-to-motion generation.  For generating safety alerts, I took real-time 3D human pose estimates of the worker, automatically generated their SMPL-compatible keypoints, and provided them to the fine-tuned MLM that generates the ergonomic feedback in natural language. This project has been [awarded a grant of $1.3M](https://info.bwc.ohio.gov/news-and-events/news/BWC-awards-9.4-million-in-grants-for-workforce-safety-innovation-projects ) by the  Ohio Bureau of Workers’ Compensation and was covered by [Spectrum News](https://spectrumnews1.com/oh/columbus/news/2024/10/23/ohio-worker-safety--artificial-intelligence--ohio-bureau-of-workers-compensation--dr--manish-kumar--dr--sam-anand). 
 
-<video src="https://github.com/user-attachments/assets/ad0fdd64-7516-4cc0-a0bc-268460fceea3" controls="controls" style="max-width: 630px;padding-left: 10em">
+<video src="https://github.com/user-attachments/assets/ad0fdd64-7516-4cc0-a0bc-268460fceea3" controls="controls">
 </video>
 
 - **Synthetic Image Data Generation for Model Training:**
@@ -25,7 +25,7 @@ Due to limited access to the factory, we did not have sufficient images to train
 
 <img src="/images/Component_Recognition_Summary.png"
      alt="Component Recognition"
-     style="max-width: 630px;padding-left: 10em" />
+/>
 
 - **Enhancing Digital Twins and IoT with LLM:**
 To access and interpret real-time and historical data from both legacy and smart factory machines, I developed a Digital Twin and a multi-agent LLM framework, using Retrieval Augmented Generation (RAG). I deployed this model on mixed reality devices such as AR/VR headsets, which allows users to control the machine in real-time. [SME NAMRC, 2023](https://www.sciencedirect.com/science/article/pii/S2213846323001153), 
@@ -39,7 +39,7 @@ As part of the legacy machine digitazation effort, I leveraged computer vision a
 
 <img src="/images/Industrial_IoT_Smart_Factory.png"
      alt="Industrial IoT Smart Factory"
-     style="max-width: 630px;padding-left: 10em" />
+/>
      
 News
 ======
