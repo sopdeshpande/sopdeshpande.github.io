@@ -25,8 +25,14 @@ Due to limited access to the factory, we did not have sufficient images to train
 To access and interpret real-time and historical data from both legacy and smart factory machines, I developed a Digital Twin and a multi-agent LLM framework, using Retrieval Augmented Generation (RAG). I deployed this model on mixed reality devices such as AR/VR headsets, which allows users to control the machine in real-time. [SME 2023](https://www.sciencedirect.com/science/article/pii/S2213846323001153), 
 [SME NAMRC, 2025 and CAAD Futures, 2025](https://ming3d.com/new/2024/01/24/digital-twin-with-iiot/)
 
+- **Visual Inspections Perfected using AI:**
+This [collaborative project](https://www.sciencedirect.com/science/article/pii/S2213846323001761) with Siemens Technology and Boeing involved developing real-time sealant deposition monitoring for automated quality control using computer vision. In this work, I conducted object and shape localization on images captured by a camera mounted on a robotic arm. Further, I also designed a Bayesian network to predict the real-time sealant parameters for space-grade solar panel. Two invention disclosures on object localization approved at UC.
+
+- **Industrial Iot for Smart Factory:**
+In this [project](https://www.sciencedirect.com/science/article/pii/S2213846323001153), I acquired, analyzed and visualized real-time digitized data in a simple, deployable and cost-effective manner from legacy machines by pushing data to cloud to perform analytics and interpretating using augmented reality app. The framework combines cameras, computing and networking technology to seamlessly integrate machine data through MTConnect®, MQTT, WebSocket with cloud and AR application.
 
 
+  
 News
 ======
 - **Dec 2024**: Social media coverage of the [Human Digital Twin project](https://www.linkedin.com/posts/manish-kumar-b878143a_as-co-directors-of-the-university-of-cincinnatis-activity-7267390669843759104-s7N4?utm_source=share&utm_medium=member_desktop), successfully accomplished as a part of the UC Industry 4.0/5.0 Consortium Project 2024
@@ -46,7 +52,7 @@ LLM integration" paper submitted at SME North American Manufacturing Research Co
 
 - **Jan 2024**: Honored to be chosen as one of the top four candidates at [UC Digital Futures](https://ucdigitalfutures.com/) to receive Graduate Research Fellowship
 
-- **June 2023**: [IIoT based framework for data communication and prediction using augmented reality for legacy machine artifacts](https://www.sciencedirect.com/science/article/pii/S2213846323001153) and [Smart monitoring and automated real-time visual inspection of a sealant applications (SMART-VIStA)]([https://asmedigitalcollection.asme.org/MSEC/proceedings/MSEC2024/88100/V001T01A001/1203142](https://www.sciencedirect.com/science/article/pii/S2213846323001761)). SMART-VIStA project was an [MxD -Department of Army awarded grant](https://www.mxdusa.org/projects/visual-inspections-perfected-using-ai/) and collaboration with Siemens Technology and Boeing. Two invention disclosures on object localization approved at UC.
+- **June 2023**: [IIoT based framework for data communication and prediction using augmented reality for legacy machine artifacts](https://www.sciencedirect.com/science/article/pii/S2213846323001153) and [Smart monitoring and automated real-time visual inspection of a sealant applications (SMART-VIStA)](https://www.sciencedirect.com/science/article/pii/S2213846323001761). SMART-VIStA project was an [MxD -Department of Army awarded grant](https://www.mxdusa.org/projects/visual-inspections-perfected-using-ai/) and collaboration with Siemens Technology and Boeing. 
 
 - **April 2022**: White paper accepted at Siemens Realize Live, 2022 
 
