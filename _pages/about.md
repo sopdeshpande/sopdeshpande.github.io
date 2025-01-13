@@ -34,9 +34,13 @@ To access and interpret real-time and historical data from both legacy and smart
 - **Visual Inspections Perfected using AI:**
 This collaborative project with Siemens Technology and Boeing involved developing real-time sealant deposition monitoring for automated quality control using computer vision. In this work, I conducted object and shape localization on images captured by a camera mounted on a robotic arm. Further, I also designed a Bayesian network to predict the real-time sealant parameters for space-grade solar panel. Two invention disclosures on object localization approved at UC. [SME NAMRC, 2023](https://www.sciencedirect.com/science/article/pii/S2213846323001761)
 
-- **Industrial Iot for Smart Factory:**
+- **Industrial IoT for Smart Factory:**
 As part of the legacy machine digitazation effort, I leveraged computer vision algorithms to automatically predict product part quality of the injection molding machine. For this, I acquired digitized data (e.g. temperature, pressure) from the machine in real-time, trained a model to predict any volumetric shrinkage and deflection, and visualized it using an augmented reality (AR) app. The framework combines cameras, computing and networking technology to seamlessly integrate machine data through MTConnect®, MQTT, WebSocket with cloud and AR application. [SME NAMRC, 2023](https://www.sciencedirect.com/science/article/pii/S2213846323001153)
 
+<img src="/images/Industrial_IoT_Smart_Factory.png"
+     alt="Industrial IoT Smart Factory"
+     style="max-width: 630px;padding-left: 10em" />
+     
 News
 ======
 - **Dec 2024**: Social media coverage of the [Human Digital Twin project](https://www.linkedin.com/posts/manish-kumar-b878143a_as-co-directors-of-the-university-of-cincinnatis-activity-7267390669843759104-s7N4?utm_source=share&utm_medium=member_desktop), successfully accomplished as a part of the UC Industry 4.0/5.0 Consortium Project 2024
