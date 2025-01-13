@@ -2,20 +2,8 @@
 title: "Project 1"
 collection: projects
 type: "Project"
-permalink: /projects/project1
+permalink: [/projects/project1](https://spectrumnews1.com/oh/columbus/news/2024/10/23/ohio-worker-safety--artificial-intelligence--ohio-bureau-of-workers-compensation--dr--manish-kumar--dr--sam-anand)
 venue: "University 1, Department"
 date: 2014-01-01
 location: "City, Country"
 ---
-
-This is a description of a project experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
-
