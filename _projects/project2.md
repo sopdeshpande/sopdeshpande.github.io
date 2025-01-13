@@ -1,11 +1,10 @@
 ---
-permalink: /projects/
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /projects/
-  - /project.html
+title: "Project 2"
+collection: projects
+type: "Project"
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
 
 
