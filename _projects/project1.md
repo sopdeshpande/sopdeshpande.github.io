@@ -1,7 +1,7 @@
 ---
 title: "Project 1"
-collection: talks
-type: "Talk"
+collection: projects
+type: "Project"
 permalink: /projects/project1
 ---
 
