@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. candidate at the University of Cincinnati in the Smart Manufacturing Lab, College of Engineering and Applied Science, advised by [Dr. Sam Anand](https://ceas.uc.edu/research/centers-labs/center-for-global-design-and-manufacturing.html).
 
-My research focuses on applying computer vision and generative AI models for building Industry 4.0/5.0 solutions. For instance, currently I am developing vision-language models (VLMs) and digital twins (DTs) for motion prediction applications in real-time manufacturing environments. I am also interested in the industrial metaverse, IoT and human-machine interactions.
+My research focuses on applying computer vision and generative AI models to develop smart solutions for Industry 4.0/5.0 applications. For instance, currently I am developing vision-language models (VLMs) and digital twins (DTs) for 3D human-motion prediction in real-time manufacturing environments, predicting product quality through automated visual inspections, and digitizing legacy machines, to name a few. I have deployed some of these solutions on mixed-reality devices through AR/VR. I am also interested in industrial automation, IoT, and building human-in-the-loop solutions. 
 
 See my full publications at the [publication page](https://scholar.google.com/citations?user=LZ4UdG8AAAAJ&hl=en&oi=sra). You can see my CV [here](https://sopdeshpande.github.io/files/Resume_Sourabh_Deshpande.pdf). Below is a summary of some of my selected works:
 
