@@ -43,10 +43,14 @@ As part of the legacy machine digitization effort, I leveraged computer vision a
      
 News
 ======
+- **Mar 2025**: Honored to be one of the featured speakers in the digital manufacturing track on [Human Digital Twin Models with Ergonomic Evaluation](https://events.sw.siemens.com/en-US/realizelive/americas/software-products/digital-manufacturing-conference/) at Siemens Realize Live, 2025
+- 
+- **Feb 2025**: Invention disclosure granted by the University of Cincinnati on "LLM-based Human Digital Twin for Manufacturing Operations" and "IIoT-enabled Digital Twin for legacy and smart factory machines with LLM integration" 
+- 
 - **Dec 2024**: Social media coverage of the [Human Digital Twin project](https://www.linkedin.com/posts/manish-kumar-b878143a_as-co-directors-of-the-university-of-cincinnatis-activity-7267390669843759104-s7N4?utm_source=share&utm_medium=member_desktop), successfully accomplished as a part of the UC Industry 4.0/5.0 Consortium Project 2024
 
 - **Nov 2024**: "IIoT-enabled Digital Twin for legacy and smart factory machines with 
-LLM integration" paper submitted at SME North American Manufacturing Research Conference (NAMRC), 2025 (*Full length paper under review*)
+LLM integration" paper submitted at SME North American Manufacturing Research Conference (NAMRC), 2025 (*Accepted*)
 
 - **Nov 2024**: Abstract "Enhancing Digital Twins with Internet of Things, Large Language Models: Assessment of DT Development Platforms" accepted for CAAD Futures 2025: Catalytic Interfaces (*Full length paper under review*)
 
@@ -62,7 +66,7 @@ LLM integration" paper submitted at SME North American Manufacturing Research Co
 
 - **June 2023**: Two conference papers presented at the SME North American Manufacturing Research Conference (NAMRC), 2023 [IIoT based framework for data communication and prediction using augmented reality for legacy machine artifacts](https://www.sciencedirect.com/science/article/pii/S2213846323001153) and [Smart monitoring and automated real-time visual inspection of a sealant applications (SMART-VIStA)](https://www.sciencedirect.com/science/article/pii/S2213846323001761). SMART-VIStA project was an [MxD -Department of Army awarded grant](https://www.mxdusa.org/projects/visual-inspections-perfected-using-ai/) and collaboration with Siemens Technology and Boeing. 
 
-- **April 2022**: White paper accepted at Siemens Realize Live, 2022 
+- **April 2022**: White paper on IIoT for legacy machines presented at Siemens Realize Live, 2022 
 
 - **June 2021**: Recognized by SME and ASME for [co-organizing NAMRC and MSEC](https://issuu.com/sme_us/docs/13320_2021_namri-namrc_awards_brochure_2021-07-07_), 2021
 
