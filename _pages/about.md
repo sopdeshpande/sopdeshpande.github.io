@@ -44,9 +44,9 @@ As part of the legacy machine digitization effort, I leveraged computer vision a
 News
 ======
 - **Mar 2025**: Honored to be one of the featured speakers in the digital manufacturing track on [Human Digital Twin Models with Ergonomic Evaluation](https://events.sw.siemens.com/en-US/realizelive/americas/software-products/digital-manufacturing-conference/) at Siemens Realize Live, 2025
-- 
+
 - **Feb 2025**: Invention disclosure granted by the University of Cincinnati on "LLM-based Human Digital Twin for Manufacturing Operations" and "IIoT-enabled Digital Twin for legacy and smart factory machines with LLM integration" 
-- 
+
 - **Dec 2024**: Social media coverage of the [Human Digital Twin project](https://www.linkedin.com/posts/manish-kumar-b878143a_as-co-directors-of-the-university-of-cincinnatis-activity-7267390669843759104-s7N4?utm_source=share&utm_medium=member_desktop), successfully accomplished as a part of the UC Industry 4.0/5.0 Consortium Project 2024
 
 - **Nov 2024**: "IIoT-enabled Digital Twin for legacy and smart factory machines with 
