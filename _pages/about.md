@@ -43,6 +43,8 @@ As part of the legacy machine digitization effort, I leveraged computer vision a
      
 News
 ======
+- **Mar 2025**: Co-filed for US Patent Application # PCT/US25/18785 on “SYSTEMS AND METHODS FOR PREDICTING AND ASSESSING MOTION OF HUMANS AND/OR OBJECTS IN AN ENVIRONMENT"
+
 - **Mar 2025**: Honored to be one of the featured speakers in the digital manufacturing track on [Human Digital Twin Models with Ergonomic Evaluation](https://events.sw.siemens.com/en-US/realizelive/americas/software-products/digital-manufacturing-conference/) at Siemens Realize Live, 2025
 
 - **Feb 2025**: Invention disclosure granted by the University of Cincinnati on "LLM-based Human Digital Twin for Manufacturing Operations" and "IIoT-enabled Digital Twin for legacy and smart factory machines with LLM integration" 
@@ -50,7 +52,7 @@ News
 - **Dec 2024**: Social media coverage of the [Human Digital Twin project](https://www.linkedin.com/posts/manish-kumar-b878143a_as-co-directors-of-the-university-of-cincinnatis-activity-7267390669843759104-s7N4?utm_source=share&utm_medium=member_desktop), successfully accomplished as a part of the UC Industry 4.0/5.0 Consortium Project 2024
 
 - **Nov 2024**: "IIoT-enabled Digital Twin for legacy and smart factory machines with 
-LLM integration" paper submitted at SME North American Manufacturing Research Conference (NAMRC), 2025 (*Accepted*)
+LLM integration" paper accepted at the SME North American Manufacturing Research Conference (NAMRC), 2025 (*Fast-tracked to the Journal of Manufacturing Systems (JMS), nominated for the Student Research Presentation Competition*)
 
 - **Nov 2024**: Abstract "Enhancing Digital Twins with Internet of Things, Large Language Models: Assessment of DT Development Platforms" accepted for CAAD Futures 2025: Catalytic Interfaces (*Full length paper under review*)
 
