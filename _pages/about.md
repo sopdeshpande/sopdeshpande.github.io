@@ -54,8 +54,6 @@ News
 - **Nov 2024**: "IIoT-enabled Digital Twin for legacy and smart factory machines with 
 LLM integration" paper accepted at the SME North American Manufacturing Research Conference (NAMRC), 2025 (*Fast-tracked to the Journal of Manufacturing Systems (JMS), nominated for the Student Research Presentation Competition*)
 
-- **Nov 2024**: Abstract "Enhancing Digital Twins with Internet of Things, Large Language Models: Assessment of DT Development Platforms" accepted for CAAD Futures 2025: Catalytic Interfaces (*Full length paper under review*)
-
 - **Oct 2024**: Press coverage by [Spectrum News](https://spectrumnews1.com/oh/columbus/news/2024/10/23/ohio-worker-safety--artificial-intelligence--ohio-bureau-of-workers-compensation--dr--manish-kumar--dr--sam-anand) on our project on improving worker safety
 
 - **Aug 2024**: [Deep learning-based image segmentation for defect detection in additive manufacturing: an overview](https://link.springer.com/article/10.1007/s00170-024-14191-6) published at the *International Journal of Advanced Manufacturing Technology*, 2024
