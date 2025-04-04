@@ -45,7 +45,7 @@ News
 ======
 - **Mar 2025**: Co-filed for US Patent Application # PCT/US25/18785 on “SYSTEMS AND METHODS FOR PREDICTING AND ASSESSING MOTION OF HUMANS AND/OR OBJECTS IN AN ENVIRONMENT"
 
-- **Mar 2025**: Honored to be one of the featured speakers in the digital manufacturing track on [Human Digital Twin Models with Ergonomic Evaluation](https://events.sw.siemens.com/en-US/realizelive/americas/software-products/digital-manufacturing-conference/) at Siemens Realize Live, 2025
+- **Mar 2025**: Honored to be one of the featured speakers in the digital manufacturing track on [Human Digital Twin Models with Ergonomic Evaluation](https://realizeliveamers25.mpeventapps.com/embed/?session=54A83000-3A10-439E-A064-242FA9368603) at Siemens Realize Live, 2025
 
 - **Feb 2025**: Invention disclosure granted by the University of Cincinnati on "LLM-based Human Digital Twin for Manufacturing Operations" and "IIoT-enabled Digital Twin for legacy and smart factory machines with LLM integration" 
 
